@@ -6,7 +6,7 @@ import csv
 import os
 
 # Files to load and output (update with correct file paths)
-file_to_load = r"C:\Users\leori\OneDrive\Desktop\DATA-PT-WEST-DECEMBER-120224\AssignmentModules\Module 3\Starter_Code (1)\Starter_Code\PyBank\Resources\budget_data.csv"  # Input file path
+file_to_load = r"C:\Users\leori\OneDrive\Desktop\python-challenge\PyBank\Resources\budget_data.csv"  # Input file path
 file_to_output =r"C:\Users\leori\OneDrive\Desktop\python-challenge\PyBank\Analysis\Results.txt"  # Output file path
 
 # Define variables to track the financial data
